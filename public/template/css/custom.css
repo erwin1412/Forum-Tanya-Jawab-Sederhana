@@ -1,0 +1,16 @@
+#content .container-fluid {
+    height: 95vh;
+}
+
+a.like,
+a.dislike {
+    text-decoration: none;
+}
+
+a.like {
+    color: green;
+}
+
+a.dislike {
+    color: red;
+}
